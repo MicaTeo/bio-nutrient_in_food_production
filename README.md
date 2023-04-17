@@ -1,10 +1,12 @@
 # Bio-nutrient in food production
 
-**Goal**: The use of Earth Observation/Satellite data to understand soil and crop nutrient composition for improved application of bio-nutrient in food production
+**Title**: The use of Earth Observation/Satellite data to understand soil and crop nutrient composition for improved application of bio-nutrient in food production
 
 **Company**: IntelliDigest Ltd. (Ifey)
 
 **Facilitator**: Cathal Cummins (Heriot-Watt University)
+
+**Subject areas**: Data Science; Process optimization; Earth observation Data, Crop nutrient, Soil nutrient, Circular economy, and Bio economy
 
 **Description**: IntelliDigest Ltd has set up the World Food tracker Platform to help stakeholders across the food
 system in transitioning to a more sustainable food system through data insight.
